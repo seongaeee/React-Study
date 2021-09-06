@@ -161,7 +161,7 @@ useEffect(() => {
 });
 ```
 
-<img src="./images/2021-07-06-14-50-43.png./" width=700>
+<img src="https://user-images.githubusercontent.com/62600984/132212197-2dad9f6f-e4fa-4abd-ac30-88489b01e6b5.png" width=400>
 
 해당 코드는 show를 누를때마다 호출되며, 이전 이벤트가 사라지않는다.
 
@@ -171,7 +171,7 @@ useEffect(() => {
 }, []);
 ```
 
-<img src="./images/2021-07-06-15-02-35.png./" width=700>
+<img src="https://user-images.githubusercontent.com/62600984/132212234-f72add7f-c9e4-4d65-a0f6-8aec81b33856.png" width=400>
 
 해당 코드는 show를 누를때마다 호출되며, 이전 이벤트가 사라진다.
 
@@ -184,7 +184,6 @@ useEffect(() => {
 }, []);
 ```
 
-<img src="./images/2021-07-06-15-02-35.png./" width=700>
 
 <br>
 
@@ -233,3 +232,12 @@ fetch("api", {
   .then((res) => res.json())
   .then((res) => {});
 ```
+
+<br>
+
+## 참고 블로그
+
+- [[React] 10 - Hooks : useEffect (1)](https://velog.io/@delilah/React-10-Hooks)
+- [[React] state & effect Hook 사용하기](https://euzl.github.io/react-hook_2/)
+- [[React] 초기 렌더링과 리렌더링](https://brunch.co.kr/@eight-two-five/13)
+- [useEffect 완벽 가이드 - 2편, 의존성 배열 deps와 클린업 함수](https://simsimjae.tistory.com/401)
