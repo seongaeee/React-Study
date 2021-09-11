@@ -192,11 +192,8 @@ extends: ['airbnb', 'eslint:recommended', 'plugin:react/recommended']
     - Format On Save 체크 하기
 ```
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fd22a925-1326-428e-9587-d8ab153713af/Untitled.png)
+![image](https://user-images.githubusercontent.com/62600984/132952055-c5c29837-a14f-4e3f-b106-5659b8f51940.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2b754bad-857f-4d8d-8bed-df8321161257/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/25de8bbb-d32a-4c43-aa76-6228fb4f031b/Untitled.png)
 
 <br>
 
